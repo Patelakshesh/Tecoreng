@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+body, html {
+    background: rgb(1, 19, 46);
+    color: rgb(255, 255, 255);
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+}
+
+.dyMOMA {
+    padding: 2rem 0px;
+}
+.dyMOMA .footerUl {
+    padding: 0px;
+    list-style: none;
+}
+.cWmmew {
+    border-top: 1px solid;
+    padding-top: 28px;
+}
+.cWmmew .footerLogo {
+    height: 88px;
+}
+.cWmmew .copyrightsSocials {
+    gap: 20px;
+    -webkit-box-pack: end;
+    justify-content: end;
+}
+@media (max-width: 600px) {
+    .dyMOMA {
+        padding: 1rem 0px;
+    }
+    .cWmmew .copyrights {
+        flex-direction: column-reverse;
+    }
+    .cWmmew .copyrightsSocials {
+        width: 100%;
+        gap: 30px;
+        margin-bottom: 1rem;
+        -webkit-box-pack: center;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,203 @@
+.hcygZN {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  background: rgb(17, 37, 66);
+  padding: 35px 0px;
+}
+.Bejbq .stagesProcess {
+  margin-top: 42px;
+}
+.Bejbq .ballEntry {
+  width: 50px;
+  margin: 1rem 0px;
+}
+.Bejbq .ball3d {
+  width: 60px;
+  /* animation: scoll 20s infinite ease-in-out; */
+}
+/* @keyframes scoll {
+    0%
+     {
+      transform: translateX(0px)
+    }
+    5%{
+        transform:  translateX(400px) translateY(100px);
+    }
+    15% {
+      transform: translateX(800px) translateY(200px);
+    }
+    20%{
+        transform: translateX(800px) translateY(350px);
+    }
+    25% {
+      transform: translateX(0px) translateY(500px);
+    }
+    30%{
+        transform: translate(0px) translateY(580px);
+    }
+    40%{
+        transform: translateX(800px) translateY(750px);
+    }
+    45%{
+        transform: translateX(800px) translateY(900px);
+    }
+    50%{
+        transform: translateX(0px) translateY(1050px);
+    }
+    55%{
+        transform: translateX(0px) translateY(1140px);
+    }
+    65%{
+        transform: translateX(800px) translateY(1280px);
+    }
+    70%{
+        transform: translateX(800px) translateY(1450px);
+    }
+    75%{
+        transform: translateX(0px) translateY(1600px);
+    }
+    80%{
+        transform: translateX(0px) translateY(1690px);
+    }
+    90%{
+        transform: translateX(750px) translateY(1830px);
+    }
+    100%{
+        transform: translateX(750px) translateY(1900px);
+    }
+  } */
+.lpcpoA {
+  width: 750px;
+  height: 275px;
+  display: flex;
+  clip-path: polygon(0px 0px, 0px 100%, 100% 100%, 100% 50%, 0% -1%);
+  background: linear-gradient(
+    93.98deg,
+    rgb(38, 66, 107) 3.93%,
+    rgba(0, 23, 56, 0.42) 97.99%
+  );
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 8px 10px;
+  border-radius: 20px;
+}
+.NfKcz {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 2rem 0px 0px 2rem;
+}
+.bBBcHj {
+  background-position: initial;
+  background-size: initial;
+  background-repeat: initial;
+  background-attachment: initial;
+  background-color: rgb(17, 37, 66);
+  box-shadow: rgb(1, 19, 46) 0px 12px 17px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  margin: 0px 1.5rem;
+  border-image-source: linear-gradient(
+    rgb(255, 255, 255),
+    rgba(0, 0, 0, 0.55)
+  ) !important;
+  background-image: linear-gradient(
+      140deg,
+      rgb(38, 66, 107) 3.04%,
+      rgb(2, 22, 52) 70%
+    ),
+    linear-gradient(rgb(255, 255, 255), transparent 60%) !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  background-origin: border-box !important;
+  background-clip: padding-box, border-box !important;
+}
+.gXMToA {
+  margin-top: 1.6rem;
+}
+.gXMToA h3 {
+  padding-bottom: 1rem;
+}
+.gXMToA .desc {
+  width: 400px;
+}
+.diTaJz {
+  position: absolute;
+  bottom: 0px;
+  right: 22.5%;
+  opacity: 0.8;
+}
+.diTaJz .ballExit {
+  margin: 1rem 0px 0px auto;
+}
+
+@media (max-width: 990px) {
+  .hcygZN {
+    padding: 15px 0px;
+  }
+}
+@media (max-width: 600px) {
+  .z-13 {
+    font-size: 1.5rem;
+    text-shadow: rgb(239, 237, 227) -1px -1px 1px, rgb(1, 19, 46) 0px 1px 0px,
+      rgb(1, 19, 46) 0px 2px 0px, rgb(1, 19, 46) 0px 3px 0px,
+      rgb(77, 89, 108) 0px 4px 0px, rgba(0, 0, 0, 0.9) 0px 0px 0px,
+      rgba(0, 0, 0, 0.3) 0px 0px 0px, rgba(0, 0, 0, 0.5) 0px 0px 0px,
+      rgba(0, 0, 0, 0.9) 0px 0px 0px;
+    line-height: unset;
+  }
+}
+@media (max-width: 767px) {
+  .Bejbq .stagesProcess {
+    margin-top: 21px;
+  }
+  .Bejbq .ballEntry {
+    width: 25px;
+    /* display: none; */
+  }
+  .Bejbq .ball3d {
+    width: 30px;
+  }
+  .Bejbq .stagesBoxes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .lpcpoA {
+    width: 260px;
+    height: 100px;
+    border-radius: 10px;
+  }
+  .NfKcz {
+    padding: 0.5rem 0px 0px 0.5rem;
+  }
+  .bBBcHj {
+    width: 45px;
+    height: 45px;
+    margin: 0px 0.5rem;
+  }
+  .bBBcHj div {
+    width: 35px;
+    margin: auto;
+  }
+  .gXMToA {
+    margin-top: auto;
+    margin-bottom: 18px;
+    width: 190px;
+  }
+  .gXMToA h3 {
+    padding: 0px;
+  }
+  .gXMToA .desc {
+    width: 190px;
+    font-size: 9px;
+    margin: 0px;
+  }
+}
