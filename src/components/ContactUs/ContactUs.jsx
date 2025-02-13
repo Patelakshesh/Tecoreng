@@ -72,7 +72,8 @@ const ContactForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (validate()) {
+    const isValid = validate();
+    if (isValid) {
       const { contactUsFile, ...dataToStore } = formData;
       localStorage.setItem('contactFormData', JSON.stringify(dataToStore));
       setFormData({
