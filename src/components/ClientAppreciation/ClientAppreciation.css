@@ -1,10 +1,10 @@
-.gqKOwD {
+.c-6 {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
   margin: 60px 0px;
 }
-.Muzjw {
+.c-7 {
   margin-top: 50px !important;
 }
 .carousel {
@@ -37,11 +37,11 @@
   margin: 0;
   list-style-type: none;
 }
-.Muzjw .carousel__inner-slide {
+.c-7 .carousel__inner-slide {
   width: calc(100% - 32px);
   margin-left: 16px;
 }
-.izAulM .boxes {
+.c-9 .boxes {
   margin: 20px 0px 40px;
   padding: 30px;
   height: 430px;
@@ -57,33 +57,33 @@
   backdrop-filter: blur(12.5px);
   border-radius: 25px;
 }
-.izAulM .clientName {
+.c-9 .clientName {
   font-family: PoppinsSemiBold;
   font-size: 22px;
   padding: 2px 0px;
 }
-.izAulM .clientPosition {
+.c-9 .clientPosition {
   font-size: 18px;
   padding: 5px 0px;
 }
-.izAulM .clientComment {
+.c-9 .clientComment {
   font-size: 14px;
 }
-.jTNmIe .controls {
+.c-8 .controls {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
   -webkit-box-pack: center;
   justify-content: center;
 }
-.jTNmIe .controls .dot-group {
+.c-8 .controls .dot-group {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
   -webkit-box-pack: center;
   justify-content: center;
 }
-.jTNmIe .controls .dot-group .carousel__dot {
+.c-8 .controls .dot-group .carousel__dot {
   width: 8px;
   height: 8px;
   border: none;
@@ -93,7 +93,7 @@
   background-color: rgb(195, 196, 202);
 }
 @media (max-width: 990px) {
-  .gqKOwD {
+  .c-6 {
     margin: 25px 0px;
   }
   .r-2 {
@@ -112,7 +112,7 @@
   }
 }
 @media (max-width: 767px) {
-  .Muzjw {
+  .c-7 {
     margin-top: 25px !important;
   }
 }

@@ -11,9 +11,9 @@ const TecorengSection = () => {
   };
 
   return (
-    <section className="a-72 kYcfYk">
+    <section className="a-7 c-25">
       <div className="container">
-        <div className="a-74 fYopnZ">
+        <div className="a-7 c-26">
           <div className="outlineTitle">
             <h2>Why Tecoreng for your next project</h2>
           </div>
@@ -37,7 +37,7 @@ const TecorengSection = () => {
           <div className="boxes3D">
             <div className="row">
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="d-flex align-items-center flex-column text-center">
                     <div className="Box3dIcon">
                       <img
@@ -57,7 +57,7 @@ const TecorengSection = () => {
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="d-flex align-items-center flex-column text-center">
                     <div className="Box3dIcon">
                       <img
@@ -75,7 +75,7 @@ const TecorengSection = () => {
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="d-flex align-items-center flex-column text-center">
                     <div className="Box3dIcon">
                       <img
@@ -95,7 +95,7 @@ const TecorengSection = () => {
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="d-flex align-items-center flex-column text-center">
                     <div className="Box3dIcon">
                       <img
@@ -113,28 +113,28 @@ const TecorengSection = () => {
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="text-center">
                     <b>Agile Methodology</b>
                   </div>
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="text-center">
                     <b>Certified Experts</b>
                   </div>
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="text-center">
                     <b>Budget Friendly</b>
                   </div>
                 </div>
               </div>
               <div className="col-6 col-md-3">
-                <div className="a-75 hcnVXW">
+                <div className="a-7 c-27">
                   <div className="text-center">
                     <b>100% Client Expectation</b>
                   </div>

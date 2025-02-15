@@ -4,7 +4,7 @@ import "./FlexibleEngagementModels.css";
 const FlexibleEngagementModels = () => {
   return (
     <div className="container flexible-container">
-      <div className="a-70 jJSGVz">
+      <div className="a-7 c-18">
         <div className="a-13 z-13">
           <h2 className="container p-0">Our Flexible Engagement Models</h2>
         </div>

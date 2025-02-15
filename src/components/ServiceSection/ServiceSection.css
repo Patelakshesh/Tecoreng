@@ -20,11 +20,11 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-.eykmLO {
+.c-30 {
   margin-top: 80px;
   width: 100%;
 }
-.eykmLO .servicesSection {
+.c-30 .servicesSection {
   padding: 0px;
   list-style: none;
   gap: 40px;
@@ -35,7 +35,7 @@ ul {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-.eykmLO li {
+.c-30 li {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
@@ -49,13 +49,13 @@ ul {
   transition: 0.5s;
 }
 
-.sxcgf {
+.c-28 {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
   padding: 60px 0px;
 }
-.eykmLO li:hover {
+.c-30 li:hover {
   padding: 60px 40px;
   border-image-source: linear-gradient(
     rgb(255, 255, 255),
@@ -73,11 +73,16 @@ ul {
   background-origin: border-box !important;
   background-clip: padding-box, border-box !important;
 }
-.ctezdg {
+.c-29 {
   font-weight: 700;
   font-size: 56px;
   line-height: 84px;
-  text-shadow: rgb(239, 237, 227) -1px -1px 1px, rgb(1, 19, 46) 0px 1px 0px, rgb(1, 19, 46) 0px 2px 0px, rgb(1, 19, 46) 0px 3px 0px, rgb(1, 19, 46) 0px 4px 0px, rgb(1, 19, 46) 0px 5px 0px, rgb(77, 89, 108) 0px 6px 0px, rgba(0, 0, 0, 0.9) 0px 0px 0px, rgba(0, 0, 0, 0.3) 0px 0px 0px, rgba(0, 0, 0, 0.5) 0px 0px 0px, rgba(0, 0, 0, 0.9) 0px 0px 0px;
+  text-shadow: rgb(239, 237, 227) -1px -1px 1px, rgb(1, 19, 46) 0px 1px 0px,
+    rgb(1, 19, 46) 0px 2px 0px, rgb(1, 19, 46) 0px 3px 0px,
+    rgb(1, 19, 46) 0px 4px 0px, rgb(1, 19, 46) 0px 5px 0px,
+    rgb(77, 89, 108) 0px 6px 0px, rgba(0, 0, 0, 0.9) 0px 0px 0px,
+    rgba(0, 0, 0, 0.3) 0px 0px 0px, rgba(0, 0, 0, 0.5) 0px 0px 0px,
+    rgba(0, 0, 0, 0.9) 0px 0px 0px;
 }
 a,
 li {
@@ -85,31 +90,31 @@ li {
   color: inherit;
   list-style-type: unset;
 }
-.eykmLO .content-left {
+.c-30 .content-left {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
 }
-.eykmLO .content-services {
+.c-30 .content-services {
   margin-left: 55px;
 }
-.eykmLO .serviceName {
+.c-30 .serviceName {
   font-size: 24px;
   font-weight: 700;
 }
-.eykmLO .serviceDesc {
+.c-30 .serviceDesc {
   display: none;
   margin-top: 30px;
   max-width: 400px;
 }
-.eykmLO .content-serviceImgs {
+.c-30 .content-serviceImgs {
   display: none;
   -webkit-box-align: center;
   align-items: center;
   -webkit-box-pack: justify;
   justify-content: space-between;
 }
-.eykmLO .content-serviceImgs .serviceImgBox {
+.c-30 .content-serviceImgs .serviceImgBox {
   display: flex;
   flex-direction: column;
   -webkit-box-align: center;
@@ -120,7 +125,7 @@ li {
   text-align: center;
   padding: 0px 25px;
 }
-.eykmLO .content-arrow {
+.c-30 .content-arrow {
   display: none;
   background: linear-gradient(
     94.76deg,
@@ -154,10 +159,10 @@ li {
     width: 100%;
     margin: 20px 0px;
   }
-  .eykmLO li {
+  .c-30 li {
     padding: 15px;
   }
-  .eykmLO li:hover {
+  .c-30 li:hover {
     display: none;
   }
 }

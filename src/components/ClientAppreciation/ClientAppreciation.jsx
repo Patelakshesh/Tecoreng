@@ -61,15 +61,15 @@ const ClientAppreciation = () => {
   }, []);
 
   return (
-    <section className="sc-16363855-0 gqKOwD">
+    <section className=" c-6">
       <div className="container">
         <div className="a-13 z-13">
           <h2 className="container p-0">Appreciation from Clients</h2>
         </div>
-        <div className="a-84 Muzjw">
+        <div className="a-8 c-7">
           <div className="carousel-container">
             <div className="carousel">
-              <div className="a-83 jTNmIe">
+              <div className="a-8 c-8">
                 <div
                   className="horizontalSlider___281Ls carousel__slider carousel__slider--horizontal"
                   aria-live="polite"
@@ -110,7 +110,7 @@ const ClientAppreciation = () => {
                             className="slideInner___2mfX9 carousel__inner-slide"
                             style={{ position: "unset" }}
                           >
-                            <div className="sc-16363855-1 izAulM">
+                            <div className=" c-9">
                               <div className="boxes">
                                 <div className="clientName">{client.name}</div>
                                 <div className="clientPosition">

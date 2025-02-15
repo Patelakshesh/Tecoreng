@@ -14,42 +14,42 @@ const TecorengInsights = () => {
       title: "Top Trends in AI and ML Reshaping the world of 2024",
       date: "25-01-2024 - Tecoreng",
       content:
-        "Brief Overview of AI and ML In the realm of technology, two groundbreaking forces are poised to shape our future: Artificial Intelligence (AI) and Machine Learning (ML). AI, the intelligence demonstrated by machines, and ML, the ability of machines to learn from data. stand as the vanguards of a digital revolution. These technologies are not […]",
+        "Brief Overview of AI and ML In the realm of technology, two groundbreaking forces are poised to shape our future: Artificial Intelligence (AI) and Machine Learning (ML). AI, the intelligence demonstrated by machines, and ML, the ability of machines to learn from data. stand as the vanguards of a digital revolution. These technologies are not.",
       image: img1,
     },
     {
       title: "Robotic Processing Automation (RPA) How To Use In Real Life",
       date: "01-06-2023 - Paresh Solanki",
       content:
-        "Robotic Processing Automation (RPA), the use of RPA, its Advantages, Limitations, and the last FAQ of RPA are all explained in this article. Robotic Processing Automation (RPA) Robotic Process Automation (RPA) is a technology that has grown significantly in popularity in recent years. Organizations may automate routine, rule-based operations with this innovative solution, freeing up […]",
+        "Robotic Processing Automation (RPA), the use of RPA, its Advantages, Limitations, and the last FAQ of RPA are all explained in this article. Robotic Processing Automation (RPA) Robotic Process Automation (RPA) is a technology that has grown significantly in popularity in recent years. Organizations may automate routine, rule-based operations with this innovative solution, freeing up.",
       image: img2,
     },
     {
       title: "7 Types Of Cyber Security Trends 2023",
       date: "16-01-2023 - Paresh Solanki",
       content:
-        "7 types of cyber security trends provide protection on your computer or electronic devices. Cyber security is far to your system from authorized access by humans or non-humans. Cyber security is in simple words protecting your computer or system from unauthorized access or hackers. The Cyber security is the save your on personal and professional […]",
+        "7 types of cyber security trends provide protection on your computer or electronic devices. Cyber security is far to your system from authorized access by humans or non-humans. Cyber security is in simple words protecting your computer or system from unauthorized access or hackers. The Cyber security is the save your on personal and professional.",
       image: img3,
     },
     {
       title: "Artificial Intelligence: How AI is Transforming Every Industries",
       date: "20-07-2023 - Paresh Solanki",
       content:
-        "Artificial intelligence (AI) refers to the emulation of human intellect in devices that have been design to behave and think like humans. The phrase may also use to refer to any computer that demonstrates characteristics of the human intellect, such as learning and problem-solving. Furthermore, there are many ways to use artificial intelligence (AI) every […]",
+        "Artificial intelligence (AI) refers to the emulation of human intellect in devices that have been design to behave and think like humans. The phrase may also use to refer to any computer that demonstrates characteristics of the human intellect, such as learning and problem-solving. Furthermore, there are many ways to use artificial intelligence (AI) every.",
       image: img4,
     },
     {
       title: "Agile Testing Methodology, Process & Life Cycle",
       date: "09-01-2023 - Paresh Solanki",
       content:
-        "The Agile Testing Methodology Process model is part of the Software Development Life Cycle (SDLC). This process programmers use to build software programs. Also, Agile software development process models are the most popular methodology. The SDLC process is necessary for all software development companies. This method builds a high-quality project.&nbsp; Furthermore, Tecoreng explores the Agile […]",
+        "The Agile Testing Methodology Process model is part of the Software Development Life Cycle (SDLC). This process programmers use to build software programs. Also, Agile software development process models are the most popular methodology. The SDLC process is necessary for all software development companies. This method builds a high-quality project.&nbsp; Furthermore, Tecoreng explores the Agile.",
       image: img5,
     },
     {
       title: "Web3: The Story of Blockchain",
       date: "05-02-2024 - Tecoreng",
       content:
-        "Brief Overview of the Evolution of the Internet The internet, a transformative force that has redefined the way we communicate, access information, and conduct business, has undergone a  remarkable evolution since its inception. Beginning as a simple network for academic and  military purposes, it has evolved into a vast and interconnected ecosystem that permeates nearly […]",
+        "Brief Overview of the Evolution of the Internet The internet, a transformative force that has redefined the way we communicate, access information, and conduct business, has undergone a  remarkable evolution since its inception. Beginning as a simple network for academic and  military purposes, it has evolved into a vast and interconnected ecosystem that permeates nearly.",
       image: img6,
     },
   ];
@@ -79,7 +79,7 @@ const TecorengInsights = () => {
               <h2 className="container p-0">Tecoreng insights</h2>
             </div>
           </div>
-          <div className="sc-f9a566b9-6 bvIudS">
+          <div className="c-3">
             <div className="carousel">
               <div
                 className="horizontalSlider___281Ls carousel__slider carousel__slider--horizontal"
@@ -121,7 +121,7 @@ const TecorengInsights = () => {
                             target="_blank"
                             href="/blog/top-trends-in-ai-and-ml-reshaping-the-world-of-2024"
                           >
-                            <div className="sc-f9a566b9-5 eAFnxO">
+                            <div className=" c-5">
                               <div className="blogImg">
                                 <span
                                   className="lazy-load-image-background blur lazy-load-image-loaded"

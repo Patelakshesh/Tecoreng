@@ -1,4 +1,4 @@
-.jlKeOy {
+.c-19 {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
@@ -15,29 +15,29 @@
     rgba(0, 0, 0, 0.3) 0px 0px 0px, rgba(0, 0, 0, 0.5) 0px 0px 0px,
     rgba(0, 0, 0, 0.9) 0px 0px 0px;
 }
-.jlKeOy p {
+.c-19 p {
   width: 85%;
   margin-top: 67px;
   margin-bottom: 100px;
 }
-.bnYOqe {
+.c-20 {
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
 }
-.jJgnty {
+.c-21 {
   width: 100%;
   height: 500px;
   margin: 0px auto;
 }
-.css-doq0dk {
+.c-22 {
   position: relative;
   width: 100%;
   height: 100%;
 }
-.css-1fzpoyk {
+.c-23 {
   position: absolute;
   height: 100%;
   top: 50%;
@@ -48,17 +48,17 @@
   justify-content: center;
   transform-origin: 50% 50%;
 }
-.fXtiVo {
+.c-24 {
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
   position: relative;
 }
-.fXtiVo .whiteBox {
+.c-24 .whiteBox {
   font-size: 13px;
   padding: 15px 40px;
 }
-.fXtiVo .whiteBox {
+.c-24 .whiteBox {
   width: 600px;
   height: 400px;
   display: flex;
@@ -72,13 +72,13 @@
   color: rgb(0, 0, 0);
   padding: 15px 40px;
 }
-.fXtiVo .whiteBox .whiteBoxDesc {
+.c-24 .whiteBox .whiteBoxDesc {
   font-size: 14px;
   line-height: 21px;
   text-align: center;
   letter-spacing: -0.04em;
 }
-.fXtiVo .whiteBox h3 {
+.c-24 .whiteBox h3 {
   font-family: PoppinsBold;
   font-weight: 700;
   line-height: 36px;
@@ -99,41 +99,41 @@
 }
 
 @media (max-width: 990px) {
-  .jlKeOy {
+  .c-19 {
     position: relative;
     z-index: 0;
     margin: 20px 0px !important;
   }
-  .jlKeOy p {
+  .c-19 p {
     width: 100%;
     margin: 25px 0px;
     line-height: 21px;
   }
-  .bnYOqe {
+  .c-20 {
     margin: 3rem 0px;
   }
-  .jJgnty {
+  .c-21 {
     height: 300px;
     margin: 15px 0px;
   }
 }
 @media (max-width: 1023px) {
-  .fXtiVo .whiteBox {
+  .c-24 .whiteBox {
     width: 270px;
     height: 350px;
     font-size: 9px;
     text-align: left;
     padding: 15px 20px 30px;
   }
-  .fXtiVo .whiteBox svg {
+  .c-24 .whiteBox svg {
     margin-right: auto;
     width: 30px;
     height: 40px;
   }
-  .fXtiVo .whiteBox h3 {
+  .c-24 .whiteBox h3 {
     line-height: 36px;
   }
-  .fXtiVo .whiteBox .whiteBoxDesc {
+  .c-24 .whiteBox .whiteBoxDesc {
     font-size: 12px;
     line-height: 18px;
   }

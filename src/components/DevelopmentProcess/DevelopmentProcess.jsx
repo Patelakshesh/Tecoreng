@@ -92,9 +92,9 @@ const DevelopmentProcess = () => {
   }, []);
 
   return (
-    <section className="a-76 hcygZN" ref={componentRef}>
+    <section className="a-7 c-12" ref={componentRef}>
       <div className="container">
-        <div className="a-77 Bejbq">
+        <div className="a-7 c-13">
           <div className="a-13 z-13">
             <h2 className="container p-0">Our Development Process</h2>
           </div>
@@ -140,9 +140,9 @@ const DevelopmentProcess = () => {
             {/* Stages Boxes */}
             <div className="stagesBoxes">
               {/* Research and Analysis */}
-              <div className="a-79 lpcpoA">
-                <div className="a-80 NfKcz">
-                  <div className="a-81 bBBcHj">
+              <div className="a-7 c-14">
+                <div className="a-8 c-15">
+                  <div className="a-8 c-16">
                     <div>
                       <img
                         alt="kickOff"
@@ -156,7 +156,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Research and Analysis</h3>
                     <p className="desc">
                       Idea, Consultation, Research, Goal Definition, &amp;
@@ -168,7 +168,7 @@ const DevelopmentProcess = () => {
 
               {/* Design */}
               <div
-                className="a-79 lpcpoA ms-auto"
+                className="a-7 c-14 ms-auto"
                 style={{ transform: "scale(-1, 1)" }}
               >
                 <div
@@ -177,9 +177,9 @@ const DevelopmentProcess = () => {
                     flexDirection: "row-reverse",
                     textAlign: "end",
                   }}
-                  className="a-80 NfKcz"
+                  className="a-80 c-15"
                 >
-                  <div className="a-81 bBBcHj">
+                  <div className="a-81 c-16">
                     <div>
                       <img
                         alt="Design"
@@ -193,7 +193,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Design</h3>
                     <p className="desc">
                       System Architecture Design, Wireframing, UI/UX Designing,
@@ -204,9 +204,9 @@ const DevelopmentProcess = () => {
               </div>
 
               {/* Development */}
-              <div className="a-79 lpcpoA">
-                <div className="a-80 NfKcz">
-                  <div className="a-81 bBBcHj">
+              <div className="a-7 c-14">
+                <div className="a-8 c-15">
+                  <div className="a-8 c-16">
                     <div>
                       <img
                         alt="Development"
@@ -220,7 +220,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Development</h3>
                     <p className="desc">
                       Functional Implementation, Software Coding &amp;
@@ -232,7 +232,7 @@ const DevelopmentProcess = () => {
 
               {/* Testing */}
               <div
-                className="a-79 lpcpoA ms-auto"
+                className="a-7 c-14 ms-auto"
                 style={{ transform: "scale(-1, 1)" }}
               >
                 <div
@@ -241,9 +241,9 @@ const DevelopmentProcess = () => {
                     flexDirection: "row-reverse",
                     textAlign: "end",
                   }}
-                  className="a-80 NfKcz"
+                  className="a-8 c-15"
                 >
-                  <div className="a-81 bBBcHj">
+                  <div className="a-8 c-16">
                     <div>
                       <img
                         alt="Testing"
@@ -257,7 +257,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Testing</h3>
                     <p className="desc">
                       Quality Assurance, Troubleshooting, &amp; Testing
@@ -267,9 +267,9 @@ const DevelopmentProcess = () => {
               </div>
 
               {/* Deployment */}
-              <div className="a-79 lpcpoA">
-                <div className="a-80 NfKcz">
-                  <div className="a-81 bBBcHj">
+              <div className="a-7 c-14">
+                <div className="a-8 c-15">
+                  <div className="a-8 c-16">
                     <div>
                       <img
                         alt="Deployment"
@@ -283,7 +283,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Deployment</h3>
                     <p className="desc">Launch, Beta Live, &amp; Live</p>
                   </div>
@@ -292,7 +292,7 @@ const DevelopmentProcess = () => {
 
               {/* Evaluation */}
               <div
-                className="a-79 lpcpoA ms-auto"
+                className="a-7 c-14 ms-auto"
                 style={{ transform: "scale(-1, 1)" }}
               >
                 <div
@@ -301,9 +301,9 @@ const DevelopmentProcess = () => {
                     flexDirection: "row-reverse",
                     textAlign: "end",
                   }}
-                  className="a-80 NfKcz"
+                  className="a-8 c-15"
                 >
-                  <div className="a-81 bBBcHj">
+                  <div className="a-8 c-16">
                     <div>
                       <img
                         alt="Evaluation"
@@ -317,7 +317,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Evaluation</h3>
                     <p className="desc">
                       Performance Evaluation, &amp; Analytics Implementation
@@ -327,9 +327,9 @@ const DevelopmentProcess = () => {
               </div>
 
               {/* Maintenance */}
-              <div className="a-79 lpcpoA">
-                <div className="a-80 NfKcz">
-                  <div className="a-81 bBBcHj">
+              <div className="a-7 c-14">
+                <div className="a-8 c-15">
+                  <div className="a-8 c-16">
                     <div>
                       <img
                         alt="Maintenance"
@@ -343,7 +343,7 @@ const DevelopmentProcess = () => {
                       />
                     </div>
                   </div>
-                  <div className="a-82 gXMToA">
+                  <div className="a-8 c-17">
                     <h3>Maintenance</h3>
                     <p className="desc">
                       Monitoring, Feedback, Analysis, &amp; Complete Support
@@ -354,7 +354,7 @@ const DevelopmentProcess = () => {
             </div>
 
             {/* Ball Exit */}
-            <div className="a-78 diTaJz d-none d-lg-block">
+            <div className="a-7 diTaJz d-none d-lg-block">
               <div className="ballExit">
                 <img
                   alt="ball exit"

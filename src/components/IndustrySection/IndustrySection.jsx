@@ -9,7 +9,7 @@ import img6 from "../../assets/images/industrial/img6.webp";
 const IndustrySection = () => {
   return (
     <div className="container">
-      <div className="a-90 bdSzjT">
+      <div className="a-9 c-10">
         <div className="a-13 z-13">
           <h2 className="container p-0">Industries We are experts in</h2>
         </div>

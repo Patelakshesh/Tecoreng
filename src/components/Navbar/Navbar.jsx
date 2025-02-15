@@ -152,8 +152,9 @@ const Navbar = () => {
         </button>
 
         <div
-          className={`collapse navbar-collapse ${isMenuOpen ? "show" : ""}`}
+          className={`collapse navbar-collapse  ${isMenuOpen ? "show" : ""}`}
           id="navbarContent"
+          style={{overflowX: "hidden"}}
         >
           <div className="d-flex d-xl-none py-3">
             <button

@@ -31,7 +31,7 @@ const SuccessStories = () => {
 
   return (
     <div className="container">
-      <div className="sc-3acf39f6-0 gDnSdl">
+      <div className=" c-11">
         <div className="a-13 z-13">
           <h2 className="container p-0">Our Success Stories</h2>
         </div>

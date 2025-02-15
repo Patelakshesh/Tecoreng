@@ -1,4 +1,4 @@
-.hcygZN {
+.c-12 {
   display: flex;
   -webkit-box-pack: center;
   justify-content: center;
@@ -7,14 +7,14 @@
   background: rgb(17, 37, 66);
   padding: 35px 0px;
 }
-.Bejbq .stagesProcess {
+.c-13 .stagesProcess {
   margin-top: 42px;
 }
-.Bejbq .ballEntry {
+.c-13 .ballEntry {
   width: 50px;
   margin: 1rem 0px;
 }
-.Bejbq .ball3d {
+.c-13 .ball3d {
   width: 60px;
   /* animation: scoll 20s infinite ease-in-out; */
 }
@@ -69,7 +69,7 @@
         transform: translateX(750px) translateY(1900px);
     }
   } */
-.lpcpoA {
+.c-14 {
   width: 750px;
   height: 275px;
   display: flex;
@@ -82,13 +82,13 @@
   box-shadow: rgba(0, 0, 0, 0.25) 0px 8px 10px;
   border-radius: 20px;
 }
-.NfKcz {
+.c-15 {
   display: flex;
   -webkit-box-align: center;
   align-items: center;
   padding: 2rem 0px 0px 2rem;
 }
-.bBBcHj {
+.c-16 {
   background-position: initial;
   background-size: initial;
   background-repeat: initial;
@@ -119,13 +119,13 @@
   background-origin: border-box !important;
   background-clip: padding-box, border-box !important;
 }
-.gXMToA {
+.c-17 {
   margin-top: 1.6rem;
 }
-.gXMToA h3 {
+.c-17 h3 {
   padding-bottom: 1rem;
 }
-.gXMToA .desc {
+.c-17 .desc {
   width: 400px;
 }
 .diTaJz {
@@ -139,7 +139,7 @@
 }
 
 @media (max-width: 990px) {
-  .hcygZN {
+  .c-12 {
     padding: 15px 0px;
   }
 }
@@ -155,47 +155,47 @@
   }
 }
 @media (max-width: 767px) {
-  .Bejbq .stagesProcess {
+  .c-13 .stagesProcess {
     margin-top: 21px;
   }
-  .Bejbq .ballEntry {
+  .c-13 .ballEntry {
     width: 25px;
     /* display: none; */
   }
-  .Bejbq .ball3d {
+  .c-13 .ball3d {
     width: 30px;
   }
-  .Bejbq .stagesBoxes {
+  .c-13 .stagesBoxes {
     display: flex;
     flex-direction: column;
     gap: 20px;
   }
-  .lpcpoA {
+  .c-14 {
     width: 260px;
     height: 100px;
     border-radius: 10px;
   }
-  .NfKcz {
+  .c-15 {
     padding: 0.5rem 0px 0px 0.5rem;
   }
-  .bBBcHj {
+  .c-16 {
     width: 45px;
     height: 45px;
     margin: 0px 0.5rem;
   }
-  .bBBcHj div {
+  .c-16 div {
     width: 35px;
     margin: auto;
   }
-  .gXMToA {
+  .c-17 {
     margin-top: auto;
     margin-bottom: 18px;
     width: 190px;
   }
-  .gXMToA h3 {
+  .c-17 h3 {
     padding: 0px;
   }
-  .gXMToA .desc {
+  .c-17 .desc {
     width: 190px;
     font-size: 9px;
     margin: 0px;

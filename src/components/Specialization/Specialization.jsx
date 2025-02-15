@@ -187,7 +187,7 @@ const Specialization = () => {
   };
 
   return (
-    <section className="sc-3e0177a7-0 jlKeOy">
+    <section className=" c-19">
       <div className="container">
         <div>
           <div className="a-13 z-13">
@@ -201,15 +201,15 @@ const Specialization = () => {
             following services:
           </p>
         </div>
-        <div className="sc-3e0177a7-1 bnYOqe">
-          <div className="sc-3e0177a7-3 jJgnty">
-            <div className="css-doq0dk">
+        <div className=" c-20">
+          <div className=" c-21">
+            <div className="c-22">
               {cards.map((card, index) => {
                 const position = getCardPosition(index);
                 return (
                   <div
                     key={index}
-                    className="css-1fzpoyk"
+                    className="c-23"
                     style={{
                       transform: position.transform,
                       left: position.left,
@@ -219,7 +219,7 @@ const Specialization = () => {
                     }}
                     onClick={() => handleCardClick(index)}
                   >
-                    <div className="sc-3e0177a7-2 fXtiVo">
+                    <div className=" c-24">
                       <div className="whiteBox">
                         {card.icon}
                         <h3>{card.title}</h3>
